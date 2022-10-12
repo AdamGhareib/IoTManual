@@ -1,4 +1,4 @@
-# Stel de LED strip kleur via een colorpicker in via Adafruit IO
+# Telegram bot
 
 Gemaakt door Adam el Ghareib - 500849066
 11 oktober 2022
