@@ -32,7 +32,9 @@ In deze tutorial ga je leren hoe je de kleur van je LED strip aanroept via een b
 2. Start a conversation with that bot and type /getid. You will get a reply back with your user ID. Save that user ID, because you’ll need it later in this tutorial.
 <img src="/images/ActivateKey.png">
 
-# Stap 3: Preparing Arduino
+# Stap 3: Universal Telegram bot library
+
+
 
 # Errors:
 
